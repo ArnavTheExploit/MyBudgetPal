@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyBudgetPal</string>
+    <string name="default_web_client_id" translatable="false">884134855943-3t9fk8tn62rp40v4lctlt2st4vsv1phd.apps.googleusercontent.com</string>
+</resources>

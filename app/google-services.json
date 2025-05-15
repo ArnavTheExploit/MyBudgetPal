@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884134855943",
+    "project_id": "mybudgetpal-48f8d",
+    "storage_bucket": "mybudgetpal-48f8d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884134855943:android:32f1056a0ff138305f31a2",
+        "android_client_info": {
+          "package_name": "com.example.mybudgetpal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzvagVen4wuNfi4r7XsmcXkljtP038nM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
